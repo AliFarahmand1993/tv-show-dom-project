@@ -1,2 +1,2 @@
 # TV-Show-Project
-TV Show Project / Working With Dom
+tv-show-dom-project / Working With Dom
