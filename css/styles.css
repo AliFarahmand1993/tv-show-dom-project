@@ -1,0 +1,40 @@
+.titles a {
+    text-decoration: none !important;
+    color: #9935dc !important;
+}
+
+.card>img {
+    width: 100%;
+}
+
+.searchLable {
+    color: rgb(25, 23, 23);
+}
+
+.dropdownbtn {
+    margin-top: 33px;
+}
+
+.dropdown-menu.show {
+    background-color: #9935dc;
+    
+}
+
+.btncolor{
+    background-color: #9935dc;
+    color:white;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover{
+    background-color: #9935dc;
+   
+}
+.dropdown-item {
+    color: white !important;
+}
+
+.dropdown-menu {
+    width: 26rem;
+    text-align: center;
+}
